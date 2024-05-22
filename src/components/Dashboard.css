@@ -1,0 +1,12 @@
+.sort-button {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.sort-button .svg-inline--fa {
+  margin-left: 5px;
+}
