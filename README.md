@@ -1,3 +1,5 @@
+**For using the deployed App [here](https://nua-assignment-dev.vercel.app/) userID:admin , password:password**
+
 # Admin Dashboard Application
 
 This is a React application that provides a dashboard for displaying and managing a list of science books fetched from the Open Library API. The application includes features for searching, sorting, editing, and downloading book details, as well as a simple login interface.
@@ -5,9 +7,7 @@ This is a React application that provides a dashboard for displaying and managin
 ## Features
 
 1. **Login**
-   - A simple login form with validation to access the dashboard.
-   - ![image](https://github.com/devkmaan/book-dashboard/assets/140909236/f5ab92d3-1b8c-47c1-85c4-900c8b2d8e70)
-
+   - A simple login form with validation to access the dashboard. 
 2. **Search Books**
    - Allows users to search for books by the author's name.
 3. **Sort Books**
@@ -19,6 +19,15 @@ This is a React application that provides a dashboard for displaying and managin
 6. **Download CSV**
    - Users can download the current list of books as a CSV file.
 
+     
+## Snippets of Project
+1. **Login Page**
+   ![image](https://github.com/devkmaan/book-dashboard/assets/140909236/f5ab92d3-1b8c-47c1-85c4-900c8b2d8e70)
+2. **Dashboard**
+   ![image](https://github.com/devkmaan/book-dashboard/assets/140909236/dbaf45aa-ce04-4c99-9ceb-197192011dbc)
+3. **Pagination and Other Options**
+   ![image](https://github.com/devkmaan/book-dashboard/assets/140909236/185b35a8-ccbe-4656-a0e6-910aa5524d70)
+
 ## Folder Structure
 
 - public/: Contains static assets and the index.html file.
@@ -27,4 +36,5 @@ This is a React application that provides a dashboard for displaying and managin
 
 ## Deployment
 The application is deployed on Vercel. You can access it [here](https://nua-assignment-dev.vercel.app/).
+
 
