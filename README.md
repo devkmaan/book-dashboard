@@ -6,7 +6,7 @@ This is a React application that provides a dashboard for displaying and managin
 
 1. **Login**
    - A simple login form with validation to access the dashboard.
-   - [image](https://github.com/devkmaan/book-dashboard/assets/140909236/f5ab92d3-1b8c-47c1-85c4-900c8b2d8e70)
+   - ![image](https://github.com/devkmaan/book-dashboard/assets/140909236/f5ab92d3-1b8c-47c1-85c4-900c8b2d8e70)
 
 2. **Search Books**
    - Allows users to search for books by the author's name.
